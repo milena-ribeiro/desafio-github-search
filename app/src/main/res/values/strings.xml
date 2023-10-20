@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="pesquisar" >Pesquisar Usuário</string>
+    <string name="nome_usuario" >Nome do Usuário </string>
+    <string name="response_error">Usuário não encontrado</string>
+    <string name="icone_compartilhar">icone compartilhar</string>
+</resources>
